@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: teal;
+    margin-top: 2% ;
+}
+
+div{
+    width: 480px;
+    margin: 2% auto;
+}
+
+button{
+width: 70px;
+height: 25px;
+border-radius: 5px;
+border: none;
+background-color: black;
+color: white;
+font-weight: bold;
+cursor: pointer;
+
+}
+canvas{
+background-color: white;
+border: 1px solid black;
+}
